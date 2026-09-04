@@ -57,7 +57,7 @@ In this hands-on project, I performed the following tasks:
 
 ## Architectural Diagram
 
-![App Screenshot](https://dummyimage.com/468x300?)
+![App Screenshot](https://github.com/VenkataDinakar77/AWS-Multi-Region-Failover-Using-Global-Accelerator/blob/a671ae7dcd8f1651c3d8ac80a798cb8b2ce8ecf2/Multi-Region%20Failover%20Architecture%207.00.45%E2%80%AFPM.png/600x550?)
 
 
 ## Architecture Insights
