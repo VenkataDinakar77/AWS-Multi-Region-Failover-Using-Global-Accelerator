@@ -112,7 +112,7 @@ These health checks provide additional visibility into the health of each Region
 
 ## Conclusion
 
-In this project, built and tested a fully functional multi-region web application using AWS Global Accelerator.
+In this project, I built and tested a fully functional multi-region web application using AWS Global Accelerator.
 
 Deployed identical applications across two AWS Regions, exposed each application through an Application Load Balancer (ALB), configured health checks, and connected both environments through a single global endpoint.
 
@@ -139,8 +139,8 @@ Through this project, I have gained practical experience designing, deploying, a
 
 ## Author
 
-- [@LinkedIn](https://www.github.com/octokatherine)
-- Email Id: dinakar.kunduru0414@gmail.com
+- [@LinkedIn](www.linkedin.com/in/venkata-dinakar77)
+- Email ID: dinakar.kunduru0414@gmail.com
 
 
 
