@@ -31,12 +31,12 @@ Then, using **AWS Global Accelerator**, we will create a single global endpoint 
 
 In this hands-on project, I performed the following tasks:
 
-- Deploy a styled web app in two AWS Regions
-- Create ALBs to expose the app in each Region
-- Add Route 53 Health Checks for continuous monitoring
-- Configure AWS Global Accelerator with two endpoint groups
-- Test how traffic moves between Regions
-- Simulate a failure and observe automatic failover
+- Deployed a styled web app in two AWS Regions
+- Created ALBs to expose the app in each Region
+- Added Route 53 Health Checks for continuous monitoring
+- Configured AWS Global Accelerator with two endpoint groups
+- Tested how traffic moves between Regions
+- Simulated a failure and observe automatic failover
 
 ## AWS services used:
 
